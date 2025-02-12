@@ -20,9 +20,9 @@ public class Main {
 
         // Domaća zadaća
         //System.out.print("Unesi broj: " + DzSavrseniBroj.class);
-    }
 
+        // Pozivanje metode za izračun prosjeka ocjena
+        ProsjekOcjena.izracunajProsjek();
     }
+}
 
-    //double[] arr = {1, 5, 8, 9}; ali ovo gore definiramo, gdje i pozivamo sve ostalo, dakle
-    // u static void main metodi
