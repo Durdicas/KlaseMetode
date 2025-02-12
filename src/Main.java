@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Domaća Zadaća
+        // Uzeti bilo koja 2 zadatka iz prethodne zadaće i preoblikovati rješenje da se koriste metode.
+        // Dakle, preraditi zadatak tako da se metoda jedne klase poziva u drugoj klasi.
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Unesi broj: ");
